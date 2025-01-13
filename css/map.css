@@ -371,7 +371,7 @@ img, svg {
     right: 25vw; */
     width: 498px;
     height: 664px;
-    background: url(../images/map1.jpg);
+    background: url(../map1.jpg);
     background-position: center center;
     background-size: cover;
     border-radius: 15px;
@@ -410,7 +410,7 @@ img, svg {
 .blur {
     width: 100vw;
     height: 750px;
-    background: url(../images/mainmap2.jpg);
+    background: url(../mainmap2.jpg);
     
 }
 

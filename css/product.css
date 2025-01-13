@@ -226,7 +226,7 @@ section {
 .banner-area {
     height: 60vh;
     width: 100%;
-    background: linear-gradient( #1c1a2521, #000000ab),url(../images/productbanner.webp) no-repeat;
+    background: linear-gradient( #1c1a2521, #000000ab),url(../productbanner.webp) no-repeat;
     /* background-color: #eee; */
     background-attachment: fixed;
     background-position: center center;
